@@ -1,5 +1,5 @@
 Included Files:
 
-trekb.bas: Original HP BASIC game by Mike Mayfield
 startrek.c: Original source code by Chris Nystrom
 startrek.doc: Original DOC file (in-game documentation) for Nystrom's ANSI C version
+trekpt.bas: Original HP BASIC game by Mike Mayfield
